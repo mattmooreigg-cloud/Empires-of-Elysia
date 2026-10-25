@@ -1,0 +1,2490 @@
+[
+  {
+    "source": "EmpiresOfElysia-Xcode.zip",
+    "origin": "archive",
+    "tag": "source-import/archive/empiresofelysia-xcode",
+    "source_archive_sha256": "c256a1b573866e90459d9ba3481d2b81c4de9898238f6eb9e77b1bf9e5d93cf8",
+    "content_fingerprint_sha256": "da9ba7c2e8072f5071d9ef5e1bbed687f3aefc91ee94fbd8be56a88be4c274cc",
+    "files": 10,
+    "declared_versions": [
+      {
+        "project": "EmpiresOfElysia.xcodeproj/project.pbxproj",
+        "marketing": [
+          "1.0"
+        ],
+        "build": [
+          "1"
+        ]
+      }
+    ],
+    "excluded_files": [],
+    "kind": "source snapshot; not a compiled playable binary",
+    "import_date": "2026-10-25",
+    "history_note": "Reconstructed preservation snapshot; import order is not original development history.",
+    "commit": "e93aac7125c8e194b15deb5b9b0d2e6c0dd35021"
+  },
+  {
+    "source": "EmpiresOfElysia-v0.2-Xcode.zip",
+    "origin": "archive",
+    "tag": "source-import/archive/empiresofelysia-v0.2-xcode",
+    "source_archive_sha256": "ca8188e34adaccbb9ce0712baf48a43896a281db2f5910841e77491eb7b17564",
+    "content_fingerprint_sha256": "460621750851cb5bbbf3ea703050779e9237f571d15b40b291377686e2fdb1fa",
+    "files": 10,
+    "declared_versions": [
+      {
+        "project": "EmpiresOfElysia.xcodeproj/project.pbxproj",
+        "marketing": [
+          "1.0"
+        ],
+        "build": [
+          "1"
+        ]
+      }
+    ],
+    "excluded_files": [],
+    "kind": "source snapshot; not a compiled playable binary",
+    "import_date": "2026-10-25",
+    "history_note": "Reconstructed preservation snapshot; import order is not original development history.",
+    "commit": "107935d69f3b6c61a8e6c3c7dc61b0a4f0475aec"
+  },
+  {
+    "source": "EmpiresOfElysia-v0.3-Xcode.zip",
+    "origin": "archive",
+    "tag": "source-import/archive/empiresofelysia-v0.3-xcode",
+    "source_archive_sha256": "2823cdccdd4dc05eba8a8c53b4ceb153d2861e6cfda20d759a378e15acc87e86",
+    "content_fingerprint_sha256": "afcd0c73b8f4351111936434d971e43d31172fb5967e3cfa67451e5def0dc342",
+    "files": 10,
+    "declared_versions": [
+      {
+        "project": "EmpiresOfElysia.xcodeproj/project.pbxproj",
+        "marketing": [
+          "1.0"
+        ],
+        "build": [
+          "1"
+        ]
+      }
+    ],
+    "excluded_files": [],
+    "kind": "source snapshot; not a compiled playable binary",
+    "import_date": "2026-10-25",
+    "history_note": "Reconstructed preservation snapshot; import order is not original development history.",
+    "commit": "ea8bcadab6db7b6d2f3adc25de10f8baa379398e"
+  },
+  {
+    "source": "EmpiresOfElysia-v0.4-Xcode.zip",
+    "origin": "archive",
+    "tag": "source-import/archive/empiresofelysia-v0.4-xcode",
+    "source_archive_sha256": "a7b0e43e42c41299221f7435044727182851840a8be2a543eda3aafc9ff4769c",
+    "content_fingerprint_sha256": "198de012b6b541461bd995575ed0444cc298057c513a6a50266df36170d598d5",
+    "files": 10,
+    "declared_versions": [
+      {
+        "project": "EmpiresOfElysia.xcodeproj/project.pbxproj",
+        "marketing": [
+          "1.0"
+        ],
+        "build": [
+          "1"
+        ]
+      }
+    ],
+    "excluded_files": [],
+    "kind": "source snapshot; not a compiled playable binary",
+    "import_date": "2026-10-25",
+    "history_note": "Reconstructed preservation snapshot; import order is not original development history.",
+    "commit": "ddb4feb1fef93e5a637a95effa86bf64158ed13b"
+  },
+  {
+    "source": "EmpiresOfElysia-v0.5-Xcode.zip",
+    "origin": "archive",
+    "tag": "source-import/archive/empiresofelysia-v0.5-xcode",
+    "source_archive_sha256": "ff17c251a5df63a8fbe97d6122da4abc1901bc30f6cfd9b9ec5952705b081be1",
+    "content_fingerprint_sha256": "e99bc9e799f650cd0c92769f6bb50b10a8fb285e7e2f293191c61de959d163e5",
+    "files": 10,
+    "declared_versions": [
+      {
+        "project": "EmpiresOfElysia.xcodeproj/project.pbxproj",
+        "marketing": [
+          "1.0"
+        ],
+        "build": [
+          "1"
+        ]
+      }
+    ],
+    "excluded_files": [],
+    "kind": "source snapshot; not a compiled playable binary",
+    "import_date": "2026-10-25",
+    "history_note": "Reconstructed preservation snapshot; import order is not original development history.",
+    "commit": "c77a6edacfdd07f0c20089a870a5c32459ea2292"
+  },
+  {
+    "source": "EmpiresOfElysia-v0.6-Xcode.zip",
+    "origin": "archive",
+    "tag": "source-import/archive/empiresofelysia-v0.6-xcode",
+    "source_archive_sha256": "dc27c82a80be0e193ffdce749f932cc2c85866c2cb5d8efb4d16fe7b4804f7fd",
+    "content_fingerprint_sha256": "c5ab9359217ac12789e8500c04a68915e2eda6f2322e995253bf65c3cab7e9af",
+    "files": 13,
+    "declared_versions": [
+      {
+        "project": "EmpiresOfElysia.xcodeproj/project.pbxproj",
+        "marketing": [
+          "0.6"
+        ],
+        "build": [
+          "1"
+        ]
+      }
+    ],
+    "excluded_files": [],
+    "kind": "source snapshot; not a compiled playable binary",
+    "import_date": "2026-10-25",
+    "history_note": "Reconstructed preservation snapshot; import order is not original development history.",
+    "commit": "85fbc1b88cf2929ad21fc51351a1f5e95fa7d50d"
+  },
+  {
+    "source": "EmpiresOfElysia-v0.7-Xcode.zip",
+    "origin": "archive",
+    "tag": "source-import/archive/empiresofelysia-v0.7-xcode",
+    "source_archive_sha256": "8f51a3bb17fd6962e3ed59309ce8071997f1e203e88cbf720da469e25dde9c8a",
+    "content_fingerprint_sha256": "52941bd164c583f04f3090548e0883f925d0a1dde83c97b9c0345df5708e7869",
+    "files": 15,
+    "declared_versions": [
+      {
+        "project": "EmpiresOfElysia.xcodeproj/project.pbxproj",
+        "marketing": [
+          "0.7"
+        ],
+        "build": [
+          "1"
+        ]
+      }
+    ],
+    "excluded_files": [],
+    "kind": "source snapshot; not a compiled playable binary",
+    "import_date": "2026-10-25",
+    "history_note": "Reconstructed preservation snapshot; import order is not original development history.",
+    "commit": "6cc5415726e2fec88b84a74590b18c25bf9f7a83"
+  },
+  {
+    "source": "EmpiresOfElysia-v0.8-Xcode.zip",
+    "origin": "archive",
+    "tag": "source-import/archive/empiresofelysia-v0.8-xcode",
+    "source_archive_sha256": "aeacad5f7984fda1869ff3b0463275b29c84c1ba89676d6610e5cd1fe5430c46",
+    "content_fingerprint_sha256": "5203a14433de05c02e1505123006bbfdc036c9eb81c44f78ce73ec558b57a890",
+    "files": 15,
+    "declared_versions": [
+      {
+        "project": "EmpiresOfElysia.xcodeproj/project.pbxproj",
+        "marketing": [
+          "0.7"
+        ],
+        "build": [
+          "1"
+        ]
+      }
+    ],
+    "excluded_files": [],
+    "kind": "source snapshot; not a compiled playable binary",
+    "import_date": "2026-10-25",
+    "history_note": "Reconstructed preservation snapshot; import order is not original development history.",
+    "commit": "ba5a3e721fef3a67c78319c74c9bd12863157416"
+  },
+  {
+    "source": "EmpiresOfElysia-v0.9-Xcode.zip",
+    "origin": "archive",
+    "tag": "source-import/archive/empiresofelysia-v0.9-xcode",
+    "source_archive_sha256": "b7e06fc7613975e2d4f87ad5357743be95ff8334a35e066b45143cc8c45b0a05",
+    "content_fingerprint_sha256": "35b7f86dcecfc1de171f6947e36dc0af2e9268c9c2c41a2921d8041b897058e6",
+    "files": 88,
+    "declared_versions": [
+      {
+        "project": "EmpiresOfElysia.xcodeproj/project.pbxproj",
+        "marketing": [
+          "0.7"
+        ],
+        "build": [
+          "9"
+        ]
+      }
+    ],
+    "excluded_files": [],
+    "kind": "source snapshot; not a compiled playable binary",
+    "import_date": "2026-10-25",
+    "history_note": "Reconstructed preservation snapshot; import order is not original development history.",
+    "commit": "264cc7977e247b8e95402efc5023a5b7f4554213"
+  },
+  {
+    "source": "EmpiresOfElysia-v1.0-Xcode.zip",
+    "origin": "archive",
+    "tag": "source-import/archive/empiresofelysia-v1.0-xcode",
+    "source_archive_sha256": "9cde0cfdb5c900fde428b3e1b7f00f9cf62ff9dd50d6e8c7f852852713b70777",
+    "content_fingerprint_sha256": "74b2b68a1d4b7291384aaa74ea7880ea16f5954183d37bda427a2405f07691ee",
+    "files": 109,
+    "declared_versions": [
+      {
+        "project": "EmpiresOfElysia.xcodeproj/project.pbxproj",
+        "marketing": [
+          "1.0"
+        ],
+        "build": [
+          "10"
+        ]
+      }
+    ],
+    "excluded_files": [],
+    "kind": "source snapshot; not a compiled playable binary",
+    "import_date": "2026-10-25",
+    "history_note": "Reconstructed preservation snapshot; import order is not original development history.",
+    "commit": "906f547b0b4317e4499ca162bae589c50a28beb9"
+  },
+  {
+    "source": "EmpiresOfElysia-v1.0.1-Xcode.zip",
+    "origin": "archive",
+    "tag": "source-import/archive/empiresofelysia-v1.0.1-xcode",
+    "source_archive_sha256": "26bc648dffc58c191118e3a034228a51739cb3600387a4464e6fe1e186dd34ac",
+    "content_fingerprint_sha256": "021f569e8a43aa85a1f274d9eb08fe96efec25a9a8dbf2ad3de4ca554d5f9cf8",
+    "files": 112,
+    "declared_versions": [
+      {
+        "project": "EmpiresOfElysia.xcodeproj/project.pbxproj",
+        "marketing": [
+          "1.0.1"
+        ],
+        "build": [
+          "11"
+        ]
+      }
+    ],
+    "excluded_files": [],
+    "kind": "source snapshot; not a compiled playable binary",
+    "import_date": "2026-10-25",
+    "history_note": "Reconstructed preservation snapshot; import order is not original development history.",
+    "commit": "8f395197424cf3e950eb0fe0b6a0b400107be73b"
+  },
+  {
+    "source": "EmpiresOfElysia-v1.1-Xcode.zip",
+    "origin": "archive",
+    "tag": "source-import/archive/empiresofelysia-v1.1-xcode",
+    "source_archive_sha256": "11cb1f1e5ba17a4632cf33f6c90334cc306478d8ac00e675c8929cf7c6682142",
+    "content_fingerprint_sha256": "234b6ce59a9a668fc99c6cfd8219a825a3a587eb727783695b85740b5f75fa85",
+    "files": 112,
+    "declared_versions": [
+      {
+        "project": "EmpiresOfElysia.xcodeproj/project.pbxproj",
+        "marketing": [
+          "1.0.1"
+        ],
+        "build": [
+          "11"
+        ]
+      }
+    ],
+    "excluded_files": [],
+    "kind": "source snapshot; not a compiled playable binary",
+    "import_date": "2026-10-25",
+    "history_note": "Reconstructed preservation snapshot; import order is not original development history.",
+    "commit": "76c8dff56d0501606f4ab44835fa14f79e0c7bce"
+  },
+  {
+    "source": "EmpiresOfElysia-v1.2-Xcode.zip",
+    "origin": "archive",
+    "tag": "source-import/archive/empiresofelysia-v1.2-xcode",
+    "source_archive_sha256": "60f2f1f1aa38a42363706766262639fc284f314c3b55ca044457ad079aaa6c1f",
+    "content_fingerprint_sha256": "5f22463618ea971ef70069478cb8d8361bc92b724fdc31ada2e21ec38c1c49c6",
+    "files": 125,
+    "declared_versions": [
+      {
+        "project": "EmpiresOfElysia.xcodeproj/project.pbxproj",
+        "marketing": [
+          "1.2"
+        ],
+        "build": [
+          "12"
+        ]
+      }
+    ],
+    "excluded_files": [],
+    "kind": "source snapshot; not a compiled playable binary",
+    "import_date": "2026-10-25",
+    "history_note": "Reconstructed preservation snapshot; import order is not original development history.",
+    "commit": "bbf72d0e3ae6821bbf8f2fa488e56490775a5451"
+  },
+  {
+    "source": "EmpiresOfElysia-v1.2.1-Xcode.zip",
+    "origin": "archive",
+    "tag": "source-import/archive/empiresofelysia-v1.2.1-xcode",
+    "source_archive_sha256": "f75fc5c2563714d90ca86b2f5b0e3b5a3f6c95394426118efcc77eb030d2d35f",
+    "content_fingerprint_sha256": "6aac5b754e0979d802df4256c52ac195d8b921bcfa764c862167ae3882d2c6fa",
+    "files": 126,
+    "declared_versions": [
+      {
+        "project": "EmpiresOfElysia.xcodeproj/project.pbxproj",
+        "marketing": [
+          "1.2.1"
+        ],
+        "build": [
+          "13"
+        ]
+      }
+    ],
+    "excluded_files": [],
+    "kind": "source snapshot; not a compiled playable binary",
+    "import_date": "2026-10-25",
+    "history_note": "Reconstructed preservation snapshot; import order is not original development history.",
+    "commit": "7b8ff1aacc0a6c30665c70e73348da66d050fd9a"
+  },
+  {
+    "source": "EmpiresOfElysia-v1.3-Xcode.zip",
+    "origin": "archive",
+    "tag": "source-import/archive/empiresofelysia-v1.3-xcode",
+    "source_archive_sha256": "b0ca940ecf1a04c0a12a89e935507aa281d0076c4391ac23f19dfc9c9cf4716d",
+    "content_fingerprint_sha256": "56452fcb73674978be8036c9aaaf5def5656ac9f0c77e58b7fee6cb0c32e7272",
+    "files": 163,
+    "declared_versions": [
+      {
+        "project": "EmpiresOfElysia.xcodeproj/project.pbxproj",
+        "marketing": [
+          "1.3"
+        ],
+        "build": [
+          "14"
+        ]
+      }
+    ],
+    "excluded_files": [],
+    "kind": "source snapshot; not a compiled playable binary",
+    "import_date": "2026-10-25",
+    "history_note": "Reconstructed preservation snapshot; import order is not original development history.",
+    "commit": "ccc0de38868080b45d4c77c41488a9938114eda3"
+  },
+  {
+    "source": "EmpiresOfElysia-v1.3.1-Xcode.zip",
+    "origin": "archive",
+    "tag": "source-import/archive/empiresofelysia-v1.3.1-xcode",
+    "source_archive_sha256": "d99a6d76ef5fc24e1a2f813fe773cac7d59e10e4d24cd8eef67156b1a5840595",
+    "content_fingerprint_sha256": "df1cc60822b27d391f4d890aea1cd510328766e857fbbc4ae5488f6af0afae23",
+    "files": 167,
+    "declared_versions": [
+      {
+        "project": "EmpiresOfElysia.xcodeproj/project.pbxproj",
+        "marketing": [
+          "1.3.1"
+        ],
+        "build": [
+          "15"
+        ]
+      }
+    ],
+    "excluded_files": [],
+    "kind": "source snapshot; not a compiled playable binary",
+    "import_date": "2026-10-25",
+    "history_note": "Reconstructed preservation snapshot; import order is not original development history.",
+    "commit": "6a8506dda66fd6c63b92ceec48b1cddc6272ca52"
+  },
+  {
+    "source": "EmpiresOfElysia-v1.4-Xcode.zip",
+    "origin": "archive",
+    "tag": "source-import/archive/empiresofelysia-v1.4-xcode",
+    "source_archive_sha256": "f7536e7dfbce9567f58bf712a319c2b74d7806fbacd645de1f07a32df02c6254",
+    "content_fingerprint_sha256": "23e12b43d3c1d92ad673cb92ad4da6397c66074f44c7c4d09dcd4c1df0a93a34",
+    "files": 232,
+    "declared_versions": [
+      {
+        "project": "EmpiresOfElysia.xcodeproj/project.pbxproj",
+        "marketing": [
+          "1.3.1"
+        ],
+        "build": [
+          "15"
+        ]
+      }
+    ],
+    "excluded_files": [],
+    "kind": "source snapshot; not a compiled playable binary",
+    "import_date": "2026-10-25",
+    "history_note": "Reconstructed preservation snapshot; import order is not original development history.",
+    "commit": "3f0a7f883006be6a2235d6456973622e1d0f778c"
+  },
+  {
+    "source": "EmpiresOfElysia-v1.4.1-Art-Fix-Xcode.zip",
+    "origin": "archive",
+    "tag": "source-import/archive/empiresofelysia-v1.4.1-art-fix-xcode",
+    "source_archive_sha256": "d33e68fe1fbadaf7146c0fca3e45cf91644618d51f67a5b645c2599e58c78bf0",
+    "content_fingerprint_sha256": "39c59cfb3b33114107d0349f2e0b54424d48cd03db0bc17da924faf8c084301c",
+    "files": 232,
+    "declared_versions": [
+      {
+        "project": "EmpiresOfElysia.xcodeproj/project.pbxproj",
+        "marketing": [
+          "1.3.1"
+        ],
+        "build": [
+          "15"
+        ]
+      }
+    ],
+    "excluded_files": [],
+    "kind": "source snapshot; not a compiled playable binary",
+    "import_date": "2026-10-25",
+    "history_note": "Reconstructed preservation snapshot; import order is not original development history.",
+    "commit": "f647a8d4e47498762ef8858fbb815e5693eb98c2"
+  },
+  {
+    "source": "EmpiresOfElysia-v1.5-PNG-Integration-Xcode.zip",
+    "origin": "archive",
+    "tag": "source-import/archive/empiresofelysia-v1.5-png-integration-xcode",
+    "source_archive_sha256": "4ab037a30bbae2501912ee1f941620f2de13dfabed9c17d7ee7da0658a8d548c",
+    "content_fingerprint_sha256": "2d29ee22cba816ac5c909aa24220ade22d3f0b69a52b99117cdba527d64aed8d",
+    "files": 232,
+    "declared_versions": [
+      {
+        "project": "EmpiresOfElysia.xcodeproj/project.pbxproj",
+        "marketing": [
+          "1.3.1"
+        ],
+        "build": [
+          "15"
+        ]
+      }
+    ],
+    "excluded_files": [],
+    "kind": "source snapshot; not a compiled playable binary",
+    "import_date": "2026-10-25",
+    "history_note": "Reconstructed preservation snapshot; import order is not original development history.",
+    "commit": "6527cf76a9a18a7fe132172097677a2f35346f8f"
+  },
+  {
+    "source": "EmpiresOfElysia-v1.5.1-Cowgirls-Queens-Xcode.zip",
+    "origin": "archive",
+    "tag": "source-import/archive/empiresofelysia-v1.5.1-cowgirls-queens-xcode",
+    "source_archive_sha256": "4a509ef2db1b7c86f001dffe42589000a34b7205f5e03f1a95ada37a6ce67a3b",
+    "content_fingerprint_sha256": "5cf89cd98ddb9d009fcdf4a417dc241c3783fd4827430037783779f09114d76c",
+    "files": 238,
+    "declared_versions": [
+      {
+        "project": "EmpiresOfElysia.xcodeproj/project.pbxproj",
+        "marketing": [
+          "1.5.1"
+        ],
+        "build": [
+          "16"
+        ]
+      }
+    ],
+    "excluded_files": [],
+    "kind": "source snapshot; not a compiled playable binary",
+    "import_date": "2026-10-25",
+    "history_note": "Reconstructed preservation snapshot; import order is not original development history.",
+    "commit": "1f8b87775c85125e78083d8d2bb3fc9195a640f7"
+  },
+  {
+    "source": "EmpiresOfElysia-v1.5.2-Xcode.zip",
+    "origin": "archive",
+    "tag": "source-import/archive/empiresofelysia-v1.5.2-xcode",
+    "source_archive_sha256": "5c7fb0439417188e4f763882f8374d260937dd387919f3b42b8b553897899018",
+    "content_fingerprint_sha256": "c28f4052f42ec994133a4734a40e7cd2f0018a81b8dd45f6b5c8a9601411fe16",
+    "files": 500,
+    "declared_versions": [
+      {
+        "project": "EmpiresOfElysia.xcodeproj/project.pbxproj",
+        "marketing": [
+          "1.5.2"
+        ],
+        "build": [
+          "19"
+        ]
+      }
+    ],
+    "excluded_files": [],
+    "kind": "source snapshot; not a compiled playable binary",
+    "import_date": "2026-10-25",
+    "history_note": "Reconstructed preservation snapshot; import order is not original development history.",
+    "commit": "3304e2bf8b1ae7d53873913cd56bcb38953e8958"
+  },
+  {
+    "source": "EmpiresOfElysia-v1.6.0-Xcode.zip",
+    "origin": "archive",
+    "tag": "source-import/archive/empiresofelysia-v1.6.0-xcode",
+    "source_archive_sha256": "1ea6c9f7062bd80eef1c84a241d73ddda22930099b8ee07cf62d0060c3de53c8",
+    "content_fingerprint_sha256": "2f38b36376985f22a452696d08902fec1ccaa17fa61adaec17d5f35fd01cc0dc",
+    "files": 530,
+    "declared_versions": [
+      {
+        "project": "EmpiresOfElysia.xcodeproj/project.pbxproj",
+        "marketing": [
+          "1.6.0"
+        ],
+        "build": [
+          "20"
+        ]
+      }
+    ],
+    "excluded_files": [],
+    "kind": "source snapshot; not a compiled playable binary",
+    "import_date": "2026-10-25",
+    "history_note": "Reconstructed preservation snapshot; import order is not original development history.",
+    "commit": "298d21598a1313bd2c825dca23115a062abee7bc"
+  },
+  {
+    "source": "EmpiresOfElysia-v1.6.2-alpha-build21-Xcode.zip",
+    "origin": "archive",
+    "tag": "source-import/archive/empiresofelysia-v1.6.2-alpha-build21-xcode",
+    "source_archive_sha256": "fc84f82001b675419025761c26a933c12b83244799dbaa7cae4eaad70936b03d",
+    "content_fingerprint_sha256": "9bce271fe459016598712cfe4fc6762b51a4cf736594ebb858467961d46a1d7c",
+    "files": 602,
+    "declared_versions": [
+      {
+        "project": "EmpiresOfElysia.xcodeproj/project.pbxproj",
+        "marketing": [
+          "1.6.2"
+        ],
+        "build": [
+          "21"
+        ]
+      }
+    ],
+    "excluded_files": [],
+    "kind": "source snapshot; not a compiled playable binary",
+    "import_date": "2026-10-25",
+    "history_note": "Reconstructed preservation snapshot; import order is not original development history.",
+    "commit": "f030ab6096c97a7f1151c85b451a853aedb77fc1"
+  },
+  {
+    "source": "EmpiresOfElysia-v1.6.3-build22-HUD-candidate-Xcode.zip",
+    "origin": "archive",
+    "tag": "source-import/archive/empiresofelysia-v1.6.3-build22-hud-candidate-xcode",
+    "source_archive_sha256": "e21d7c799a157c572fca4894169e336504f53505eb48f6a5d152b378fe00c12c",
+    "content_fingerprint_sha256": "6709127d91de6ff565bf405b5b0b444ea5877c20a09e999ce84a0661b5c04b5f",
+    "files": 608,
+    "declared_versions": [
+      {
+        "project": "EmpiresOfElysia.xcodeproj/project.pbxproj",
+        "marketing": [
+          "1.6.3"
+        ],
+        "build": [
+          "22"
+        ]
+      }
+    ],
+    "excluded_files": [
+      {
+        "path": "EmpiresOfElysia/Assets.xcassets/menu_start_tutorial_button.imageset/.art.png.5mn9nD",
+        "reason": "hidden metadata or temporary file"
+      },
+      {
+        "path": "EmpiresOfElysia/Assets.xcassets/skin_cowgirls_scout.imageset/.art.png.K6GWEV",
+        "reason": "hidden metadata or temporary file"
+      }
+    ],
+    "kind": "source snapshot; not a compiled playable binary",
+    "import_date": "2026-10-25",
+    "history_note": "Reconstructed preservation snapshot; import order is not original development history.",
+    "commit": "b43b1bc8ab55c785560015c54e7358336f7cedf2"
+  },
+  {
+    "source": "EmpiresOfElysia-v1.6.3-build22-HUD-layout-fix-Xcode.zip",
+    "origin": "archive",
+    "tag": "source-import/archive/empiresofelysia-v1.6.3-build22-hud-layout-fix-xcode",
+    "source_archive_sha256": "c9a4fc20b74fe094d6d4249fbc3698138c87f0b800ba8b1e95c22932d53f38dd",
+    "content_fingerprint_sha256": "a644e2aaf688dc35299b56d769a8f362d2f777027b19db610284d6a87a4d8d51",
+    "files": 608,
+    "declared_versions": [
+      {
+        "project": "EmpiresOfElysia.xcodeproj/project.pbxproj",
+        "marketing": [
+          "1.6.3"
+        ],
+        "build": [
+          "22"
+        ]
+      }
+    ],
+    "excluded_files": [
+      {
+        "path": "ApprovedBossMasters/.04_Iron_Colossus.png.B9XVin",
+        "reason": "hidden metadata or temporary file"
+      },
+      {
+        "path": "EmpiresOfElysia/Assets.xcassets/menu_start_tutorial_button.imageset/.art.png.5mn9nD",
+        "reason": "hidden metadata or temporary file"
+      },
+      {
+        "path": "EmpiresOfElysia/Assets.xcassets/queen_saracens.imageset/.queen.png.pqpfFq",
+        "reason": "hidden metadata or temporary file"
+      },
+      {
+        "path": "EmpiresOfElysia/Assets.xcassets/skin_cowgirls_scout.imageset/.art.png.K6GWEV",
+        "reason": "hidden metadata or temporary file"
+      },
+      {
+        "path": "EmpiresOfElysia/Assets.xcassets/skin_persians_infantry.imageset/.art.png.FxgffF",
+        "reason": "hidden metadata or temporary file"
+      }
+    ],
+    "kind": "source snapshot; not a compiled playable binary",
+    "import_date": "2026-10-25",
+    "history_note": "Reconstructed preservation snapshot; import order is not original development history.",
+    "commit": "907c0524249d85fc6fae7ff24ef57046e8181c0e"
+  },
+  {
+    "source": "EmpiresOfElysia-v1.6.4-build23-Survival-candidate-Xcode.zip",
+    "origin": "archive",
+    "tag": "source-import/archive/empiresofelysia-v1.6.4-build23-survival-candidate-xcode",
+    "source_archive_sha256": "e7e92ff1520cfbe2309691c107d03a0c9d3620f402b7984f48826d83e5d267b7",
+    "content_fingerprint_sha256": "291d6508b90ffc0ac95c55bf1b438d3212421abc0ca53fc8ce9c06e9a5bdf3af",
+    "files": 619,
+    "declared_versions": [
+      {
+        "project": "EmpiresOfElysia.xcodeproj/project.pbxproj",
+        "marketing": [
+          "1.6.4"
+        ],
+        "build": [
+          "23"
+        ]
+      }
+    ],
+    "excluded_files": [
+      {
+        "path": "ApprovedBossMasters/.04_Iron_Colossus.png.B9XVin",
+        "reason": "hidden metadata or temporary file"
+      },
+      {
+        "path": "EmpiresOfElysia/Assets.xcassets/menu_start_tutorial_button.imageset/.art.png.5mn9nD",
+        "reason": "hidden metadata or temporary file"
+      },
+      {
+        "path": "EmpiresOfElysia/Assets.xcassets/queen_saracens.imageset/.queen.png.pqpfFq",
+        "reason": "hidden metadata or temporary file"
+      },
+      {
+        "path": "EmpiresOfElysia/Assets.xcassets/skin_britons_archer.imageset/.art.png.1VkXk6",
+        "reason": "hidden metadata or temporary file"
+      },
+      {
+        "path": "EmpiresOfElysia/Assets.xcassets/skin_cowgirls_scout.imageset/.art.png.K6GWEV",
+        "reason": "hidden metadata or temporary file"
+      },
+      {
+        "path": "EmpiresOfElysia/Assets.xcassets/skin_persians_infantry.imageset/.art.png.FxgffF",
+        "reason": "hidden metadata or temporary file"
+      },
+      {
+        "path": "EmpiresOfElysia/Assets.xcassets/tutorial_queen_succubi.imageset/.art.png.pUC2fJ",
+        "reason": "hidden metadata or temporary file"
+      }
+    ],
+    "kind": "source snapshot; not a compiled playable binary",
+    "import_date": "2026-10-25",
+    "history_note": "Reconstructed preservation snapshot; import order is not original development history.",
+    "commit": "9f76ad6a08ae772c026be3ede1bc6a5ebebb1323"
+  },
+  {
+    "source": "EmpiresOfElysia-v1.6.4-build24-Compiler-fix-Xcode.zip",
+    "origin": "archive",
+    "tag": "source-import/archive/empiresofelysia-v1.6.4-build24-compiler-fix-xcode",
+    "source_archive_sha256": "fdbb124cc3150e0ef6856487831cab5ce4927e624ca587e407311483c1e44e3b",
+    "content_fingerprint_sha256": "77ce95342b37a8e48594239f485ca1a88ecb4de63f034ef31799b681960493fb",
+    "files": 620,
+    "declared_versions": [
+      {
+        "project": "EmpiresOfElysia.xcodeproj/project.pbxproj",
+        "marketing": [
+          "1.6.4"
+        ],
+        "build": [
+          "24"
+        ]
+      }
+    ],
+    "excluded_files": [
+      {
+        "path": "ApprovedBossMasters/.04_Iron_Colossus.png.B9XVin",
+        "reason": "hidden metadata or temporary file"
+      },
+      {
+        "path": "EmpiresOfElysia/Assets.xcassets/menu_start_tutorial_button.imageset/.art.png.5mn9nD",
+        "reason": "hidden metadata or temporary file"
+      },
+      {
+        "path": "EmpiresOfElysia/Assets.xcassets/queen_saracens.imageset/.queen.png.pqpfFq",
+        "reason": "hidden metadata or temporary file"
+      },
+      {
+        "path": "EmpiresOfElysia/Assets.xcassets/skin_britons_archer.imageset/.art.png.1VkXk6",
+        "reason": "hidden metadata or temporary file"
+      },
+      {
+        "path": "EmpiresOfElysia/Assets.xcassets/skin_cowgirls_scout.imageset/.art.png.K6GWEV",
+        "reason": "hidden metadata or temporary file"
+      },
+      {
+        "path": "EmpiresOfElysia/Assets.xcassets/skin_persians_infantry.imageset/.art.png.FxgffF",
+        "reason": "hidden metadata or temporary file"
+      },
+      {
+        "path": "EmpiresOfElysia/Assets.xcassets/skin_persians_villager.imageset/.art.png.BYpu3Z",
+        "reason": "hidden metadata or temporary file"
+      },
+      {
+        "path": "EmpiresOfElysia/Assets.xcassets/tutorial_queen_succubi.imageset/.art.png.pUC2fJ",
+        "reason": "hidden metadata or temporary file"
+      }
+    ],
+    "kind": "source snapshot; not a compiled playable binary",
+    "import_date": "2026-10-25",
+    "history_note": "Reconstructed preservation snapshot; import order is not original development history.",
+    "commit": "0c8f1be9c9cd136ac6b5be73c74019963c49ca70"
+  },
+  {
+    "source": "EmpiresOfElysia-v1.6.4-build25-Moderate-wave-balance-Xcode.zip",
+    "origin": "archive",
+    "tag": "source-import/archive/empiresofelysia-v1.6.4-build25-moderate-wave-balance-xcode",
+    "source_archive_sha256": "5475f63510686e2631ec8afbc7d544bd72696c2853c0c561bc75b81339018ae8",
+    "content_fingerprint_sha256": "0940875dcf4619a342a4bd187cf8d42b5348ea03134999bd414fc836de71cb30",
+    "files": 621,
+    "declared_versions": [
+      {
+        "project": "EmpiresOfElysia.xcodeproj/project.pbxproj",
+        "marketing": [
+          "1.6.4"
+        ],
+        "build": [
+          "25"
+        ]
+      }
+    ],
+    "excluded_files": [
+      {
+        "path": "ApprovedBossMasters/.04_Iron_Colossus.png.B9XVin",
+        "reason": "hidden metadata or temporary file"
+      },
+      {
+        "path": "EmpiresOfElysia/Assets.xcassets/menu_faction_frame_idle.imageset/.art.png.bhaepx",
+        "reason": "hidden metadata or temporary file"
+      },
+      {
+        "path": "EmpiresOfElysia/Assets.xcassets/menu_start_tutorial_button.imageset/.art.png.5mn9nD",
+        "reason": "hidden metadata or temporary file"
+      },
+      {
+        "path": "EmpiresOfElysia/Assets.xcassets/queen_saracens.imageset/.queen.png.pqpfFq",
+        "reason": "hidden metadata or temporary file"
+      },
+      {
+        "path": "EmpiresOfElysia/Assets.xcassets/skin_britons_archer.imageset/.art.png.1VkXk6",
+        "reason": "hidden metadata or temporary file"
+      },
+      {
+        "path": "EmpiresOfElysia/Assets.xcassets/skin_cowgirls_scout.imageset/.art.png.K6GWEV",
+        "reason": "hidden metadata or temporary file"
+      },
+      {
+        "path": "EmpiresOfElysia/Assets.xcassets/skin_persians_infantry.imageset/.art.png.FxgffF",
+        "reason": "hidden metadata or temporary file"
+      },
+      {
+        "path": "EmpiresOfElysia/Assets.xcassets/skin_persians_villager.imageset/.art.png.BYpu3Z",
+        "reason": "hidden metadata or temporary file"
+      },
+      {
+        "path": "EmpiresOfElysia/Assets.xcassets/tutorial_queen_succubi.imageset/.art.png.pUC2fJ",
+        "reason": "hidden metadata or temporary file"
+      }
+    ],
+    "kind": "source snapshot; not a compiled playable binary",
+    "import_date": "2026-10-25",
+    "history_note": "Reconstructed preservation snapshot; import order is not original development history.",
+    "commit": "91f1aeac038d790dd3f17b56c4619fa689aa4a39"
+  },
+  {
+    "source": "EmpiresOfElysia-v1.6.5-build26-Manager-queue-Survival-guide-Xcode.zip",
+    "origin": "archive",
+    "tag": "source-import/archive/empiresofelysia-v1.6.5-build26-manager-queue-survival-guide-xcode",
+    "source_archive_sha256": "a2d28f6bf934cb095b2e3dc659214db004a40681fd5b85912d1e0807e67f5559",
+    "content_fingerprint_sha256": "31d42e26caca73076080fd54b0f85fb2c76eac78f856c07c73da60b19a65207c",
+    "files": 624,
+    "declared_versions": [
+      {
+        "project": "EmpiresOfElysia.xcodeproj/project.pbxproj",
+        "marketing": [
+          "1.6.5"
+        ],
+        "build": [
+          "26"
+        ]
+      }
+    ],
+    "excluded_files": [
+      {
+        "path": "ApprovedBossMasters/.04_Iron_Colossus.png.B9XVin",
+        "reason": "hidden metadata or temporary file"
+      },
+      {
+        "path": "EmpiresOfElysia/Assets.xcassets/menu_faction_frame_idle.imageset/.art.png.bhaepx",
+        "reason": "hidden metadata or temporary file"
+      },
+      {
+        "path": "EmpiresOfElysia/Assets.xcassets/menu_start_tutorial_button.imageset/.art.png.5mn9nD",
+        "reason": "hidden metadata or temporary file"
+      },
+      {
+        "path": "EmpiresOfElysia/Assets.xcassets/queen_saracens.imageset/.queen.png.pqpfFq",
+        "reason": "hidden metadata or temporary file"
+      },
+      {
+        "path": "EmpiresOfElysia/Assets.xcassets/skin_britons_archer.imageset/.art.png.1VkXk6",
+        "reason": "hidden metadata or temporary file"
+      },
+      {
+        "path": "EmpiresOfElysia/Assets.xcassets/skin_chinese_villager.imageset/.art.png.Fl8xjt",
+        "reason": "hidden metadata or temporary file"
+      },
+      {
+        "path": "EmpiresOfElysia/Assets.xcassets/skin_cowgirls_scout.imageset/.art.png.K6GWEV",
+        "reason": "hidden metadata or temporary file"
+      },
+      {
+        "path": "EmpiresOfElysia/Assets.xcassets/skin_persians_infantry.imageset/.art.png.FxgffF",
+        "reason": "hidden metadata or temporary file"
+      },
+      {
+        "path": "EmpiresOfElysia/Assets.xcassets/skin_persians_villager.imageset/.art.png.BYpu3Z",
+        "reason": "hidden metadata or temporary file"
+      },
+      {
+        "path": "EmpiresOfElysia/Assets.xcassets/tutorial_queen_cowgirls.imageset/.art.png.ksgQhb",
+        "reason": "hidden metadata or temporary file"
+      },
+      {
+        "path": "EmpiresOfElysia/Assets.xcassets/tutorial_queen_succubi.imageset/.art.png.pUC2fJ",
+        "reason": "hidden metadata or temporary file"
+      }
+    ],
+    "kind": "source snapshot; not a compiled playable binary",
+    "import_date": "2026-10-25",
+    "history_note": "Reconstructed preservation snapshot; import order is not original development history.",
+    "commit": "7d31ab91d7ca400e16ea5f2055b9850372c0f76d"
+  },
+  {
+    "source": "EmpiresOfElysia-v1.6.7-build28-Survival-systems-Xcode.zip",
+    "origin": "archive",
+    "tag": "source-import/archive/empiresofelysia-v1.6.7-build28-survival-systems-xcode",
+    "source_archive_sha256": "4e8cb4e1278bb23128c82f7015251f1f54cb552cea070a33b0683320ed4f30ba",
+    "content_fingerprint_sha256": "e6d3d37ff90fb36f5e8b41fdee8024bc76596e3bad8778121aed52d7a7fd4581",
+    "files": 698,
+    "declared_versions": [
+      {
+        "project": "EmpiresOfElysia.xcodeproj/project.pbxproj",
+        "marketing": [
+          "1.6.7"
+        ],
+        "build": [
+          "28"
+        ]
+      }
+    ],
+    "excluded_files": [
+      {
+        "path": "EmpiresOfElysia/Assets.xcassets/queen_angels.imageset/.art.png.MUdh3E",
+        "reason": "hidden metadata or temporary file"
+      },
+      {
+        "path": "EmpiresOfElysia/Assets.xcassets/skin_goths_infantry.imageset/.art.png.XV5KUL",
+        "reason": "hidden metadata or temporary file"
+      }
+    ],
+    "kind": "source snapshot; not a compiled playable binary",
+    "import_date": "2026-10-25",
+    "history_note": "Reconstructed preservation snapshot; import order is not original development history.",
+    "commit": "596b86565cb3ff3072f14a2f1a541c497c7263c0"
+  },
+  {
+    "source": "EmpiresOfElysia-v1.6.7-build28-H2-Larger-tutorial-Queen-Xcode.zip",
+    "origin": "archive",
+    "tag": "source-import/archive/empiresofelysia-v1.6.7-build28-h2-larger-tutorial-queen-xcode",
+    "source_archive_sha256": "930e642498ff4565be7087b242ab4c043f78de701aafc03e850c290ad2e8d3e2",
+    "content_fingerprint_sha256": "86baff869cb89be5bd5754854a51e5a8e8d2924179c3840801bab5642d8e7630",
+    "files": 704,
+    "declared_versions": [
+      {
+        "project": "EmpiresOfElysia.xcodeproj/project.pbxproj",
+        "marketing": [
+          "1.6.7"
+        ],
+        "build": [
+          "28"
+        ]
+      }
+    ],
+    "excluded_files": [
+      {
+        "path": "EmpiresOfElysia/Assets.xcassets/queen_angels.imageset/.art.png.MUdh3E",
+        "reason": "hidden metadata or temporary file"
+      },
+      {
+        "path": "EmpiresOfElysia/Assets.xcassets/skin_goths_infantry.imageset/.art.png.XV5KUL",
+        "reason": "hidden metadata or temporary file"
+      }
+    ],
+    "kind": "source snapshot; not a compiled playable binary",
+    "import_date": "2026-10-25",
+    "history_note": "Reconstructed preservation snapshot; import order is not original development history.",
+    "commit": "77e3dbcafacf002c729bac2643534220b494ae27"
+  },
+  {
+    "source": "Empires_of_Elysia_10_High_Resolution_Transparent_PNGs.zip",
+    "origin": "art",
+    "tag": "source-import/art/empires_of_elysia_10_high_resolution_transparent_pngs",
+    "source_archive_sha256": "c80bc92b4d9ab6f7cd0a924ce249b314ca494e45ede5ac992be6ede1e6a10053",
+    "content_fingerprint_sha256": "2f6b089b69ab65a4a6e8b8c2df2459c015ebe1b8c7511d5ac2ab06ea4693f032",
+    "files": 10,
+    "declared_versions": [],
+    "excluded_files": [],
+    "kind": "source snapshot; not a compiled playable binary",
+    "import_date": "2026-10-25",
+    "history_note": "Reconstructed preservation snapshot; import order is not original development history.",
+    "commit": "e18088448817bd27dac8767e5193be50a772658e"
+  },
+  {
+    "source": "Empires_of_Elysia_13_Factions_Unit_Assets.zip",
+    "origin": "art",
+    "tag": "source-import/art/empires_of_elysia_13_factions_unit_assets",
+    "source_archive_sha256": "5db418c382ae0d6cfdbf25f865fdee2770755c7933f1c21778aea8ca448af209",
+    "content_fingerprint_sha256": "01c61570a8224c3215d8a4ed92d1863f5587fb6b2ee0f55424f9ae52280894c1",
+    "files": 65,
+    "declared_versions": [],
+    "excluded_files": [],
+    "kind": "source snapshot; not a compiled playable binary",
+    "import_date": "2026-10-25",
+    "history_note": "Reconstructed preservation snapshot; import order is not original development history.",
+    "commit": "1b38bb5090dd5b6cac67dc830ff4245230054538"
+  },
+  {
+    "source": "Empires_of_Elysia_15_Survival_Bosses_Final_Updated.zip",
+    "origin": "art",
+    "tag": "source-import/art/empires_of_elysia_15_survival_bosses_final_updated",
+    "source_archive_sha256": "0c932874b0e4d1c329cc6ea30b99a3f8f32f40b34807eef3360a564276796b35",
+    "content_fingerprint_sha256": "a7c0653558191fedfa8ec44096ac066a04f2fbbd0125b4d1d4dede30fe3ff0df",
+    "files": 17,
+    "declared_versions": [],
+    "excluded_files": [],
+    "kind": "source snapshot; not a compiled playable binary",
+    "import_date": "2026-10-25",
+    "history_note": "Reconstructed preservation snapshot; import order is not original development history.",
+    "commit": "44a0f2afa7e13f4d15b75bfa5d5f6cce117711e6"
+  },
+  {
+    "source": "Empires_of_Elysia_All_15_High_Resolution_Transparent_PNGs.zip",
+    "origin": "art",
+    "tag": "source-import/art/empires_of_elysia_all_15_high_resolution_transparent_pngs",
+    "source_archive_sha256": "ad492b085fbfb1e5145e8227e05db022f5e9398d532784d81b30d0e7c9be056e",
+    "content_fingerprint_sha256": "9392164f31ecfe1bb26e4a747ae47d1d174f42075f300e85277512f55735e39f",
+    "files": 15,
+    "declared_versions": [],
+    "excluded_files": [],
+    "kind": "source snapshot; not a compiled playable binary",
+    "import_date": "2026-10-25",
+    "history_note": "Reconstructed preservation snapshot; import order is not original development history.",
+    "commit": "5b46b73bb901e175aeef870e7358ff20a4fc2698"
+  },
+  {
+    "source": "Empires_of_Elysia_Current_Angel_Unit_Art.zip",
+    "origin": "art",
+    "tag": "source-import/art/empires_of_elysia_current_angel_unit_art",
+    "source_archive_sha256": "8c313f5dd42e54f4270abd8edde6ff3bab23f57a6c8898c7b02f131216b8cc42",
+    "content_fingerprint_sha256": "7e70aac1c5ea923894aab8d2089f27729e4b680760cc6fc83db9310a5ad25343",
+    "files": 11,
+    "declared_versions": [],
+    "excluded_files": [],
+    "kind": "source snapshot; not a compiled playable binary",
+    "import_date": "2026-10-25",
+    "history_note": "Reconstructed preservation snapshot; import order is not original development history.",
+    "commit": "68f48dfd63d50472797b988e5af5daea67bb174f"
+  },
+  {
+    "source": "Empires_of_Elysia_Huntable_Animals_3_PNG.zip",
+    "origin": "art",
+    "tag": "source-import/art/empires_of_elysia_huntable_animals_3_png",
+    "source_archive_sha256": "0d4931c606db33b2e5e1aaf7c04459fbacf7d72d4e6bd2a5525f0db6d895ed2a",
+    "content_fingerprint_sha256": "a3bb30f4bb2c0920c6140b393c4de20b751f0ae516dcf440bc88e70f578f16ba",
+    "files": 3,
+    "declared_versions": [],
+    "excluded_files": [],
+    "kind": "source snapshot; not a compiled playable binary",
+    "import_date": "2026-10-25",
+    "history_note": "Reconstructed preservation snapshot; import order is not original development history.",
+    "commit": "e42cadb97c74952ce5cf8e71c612625ae55c4531"
+  },
+  {
+    "source": "EmpiresOfElysia",
+    "origin": "folder",
+    "tag": "source-import/folder/empiresofelysia",
+    "source_archive_sha256": null,
+    "content_fingerprint_sha256": "7c37f470fe0133047b36b53d22be12db85eb1695bf5bac6824b90c997c96c0f4",
+    "files": 167,
+    "declared_versions": [
+      {
+        "project": "EmpiresOfElysia.xcodeproj/project.pbxproj",
+        "marketing": [
+          "1.3.1"
+        ],
+        "build": [
+          "15"
+        ]
+      }
+    ],
+    "excluded_files": [
+      {
+        "path": ".DS_Store",
+        "reason": "hidden metadata or temporary file"
+      }
+    ],
+    "kind": "source snapshot; not a compiled playable binary",
+    "import_date": "2026-10-25",
+    "history_note": "Reconstructed preservation snapshot; import order is not original development history.",
+    "commit": "a6e554ba668b4425c06c4ac96554ba05852f6773"
+  },
+  {
+    "source": "EmpiresOfElysia 2",
+    "origin": "folder",
+    "tag": "source-import/folder/empiresofelysia-2",
+    "source_archive_sha256": null,
+    "content_fingerprint_sha256": "7c37f470fe0133047b36b53d22be12db85eb1695bf5bac6824b90c997c96c0f4",
+    "files": 167,
+    "declared_versions": [
+      {
+        "project": "EmpiresOfElysia.xcodeproj/project.pbxproj",
+        "marketing": [
+          "1.3.1"
+        ],
+        "build": [
+          "15"
+        ]
+      }
+    ],
+    "excluded_files": [
+      {
+        "path": ".DS_Store",
+        "reason": "hidden metadata or temporary file"
+      }
+    ],
+    "kind": "source snapshot; not a compiled playable binary",
+    "import_date": "2026-10-25",
+    "history_note": "Reconstructed preservation snapshot; import order is not original development history.",
+    "commit": "811df26e366618cb456cdf2da8ab156ba0638fe6"
+  },
+  {
+    "source": "EmpiresOfElysia 3",
+    "origin": "folder",
+    "tag": "source-import/folder/empiresofelysia-3",
+    "source_archive_sha256": null,
+    "content_fingerprint_sha256": "b35d927d9049d6d5755e5deab58fc8e0171c5c28afd009ce71b8346470f30317",
+    "files": 232,
+    "declared_versions": [
+      {
+        "project": "EmpiresOfElysia.xcodeproj/project.pbxproj",
+        "marketing": [
+          "1.3.1"
+        ],
+        "build": [
+          "15"
+        ]
+      }
+    ],
+    "excluded_files": [
+      {
+        "path": ".DS_Store",
+        "reason": "hidden metadata or temporary file"
+      }
+    ],
+    "kind": "source snapshot; not a compiled playable binary",
+    "import_date": "2026-10-25",
+    "history_note": "Reconstructed preservation snapshot; import order is not original development history.",
+    "commit": "29f4b068574d134a4ba3e80206618d3d7c989442"
+  },
+  {
+    "source": "EmpiresOfElysia 4",
+    "origin": "folder",
+    "tag": "source-import/folder/empiresofelysia-4",
+    "source_archive_sha256": null,
+    "content_fingerprint_sha256": "105f30f67ab3026dfe8de663c5581cb003d5e41d4613fd320e54d5d4c50563da",
+    "files": 232,
+    "declared_versions": [
+      {
+        "project": "EmpiresOfElysia.xcodeproj/project.pbxproj",
+        "marketing": [
+          "1.3.1"
+        ],
+        "build": [
+          "15"
+        ]
+      }
+    ],
+    "excluded_files": [
+      {
+        "path": ".DS_Store",
+        "reason": "hidden metadata or temporary file"
+      }
+    ],
+    "kind": "source snapshot; not a compiled playable binary",
+    "import_date": "2026-10-25",
+    "history_note": "Reconstructed preservation snapshot; import order is not original development history.",
+    "commit": "2a117697dd8130d29cd0951a720aedb5893626d6"
+  },
+  {
+    "source": "EmpiresOfElysia 5",
+    "origin": "folder",
+    "tag": "source-import/folder/empiresofelysia-5",
+    "source_archive_sha256": null,
+    "content_fingerprint_sha256": "105f30f67ab3026dfe8de663c5581cb003d5e41d4613fd320e54d5d4c50563da",
+    "files": 232,
+    "declared_versions": [
+      {
+        "project": "EmpiresOfElysia.xcodeproj/project.pbxproj",
+        "marketing": [
+          "1.3.1"
+        ],
+        "build": [
+          "15"
+        ]
+      }
+    ],
+    "excluded_files": [
+      {
+        "path": ".DS_Store",
+        "reason": "hidden metadata or temporary file"
+      }
+    ],
+    "kind": "source snapshot; not a compiled playable binary",
+    "import_date": "2026-10-25",
+    "history_note": "Reconstructed preservation snapshot; import order is not original development history.",
+    "commit": "1190b3dcc28e3924c5cf9c3b8fb547fee31df357"
+  },
+  {
+    "source": "EmpiresOfElysia 6",
+    "origin": "folder",
+    "tag": "source-import/folder/empiresofelysia-6",
+    "source_archive_sha256": null,
+    "content_fingerprint_sha256": "7043d5ebfba396c4a236f083d61cf3d0ae384e058f8cc9b708d2838ca68c205d",
+    "files": 238,
+    "declared_versions": [
+      {
+        "project": "EmpiresOfElysia.xcodeproj/project.pbxproj",
+        "marketing": [
+          "1.5.1"
+        ],
+        "build": [
+          "16"
+        ]
+      }
+    ],
+    "excluded_files": [
+      {
+        "path": ".DS_Store",
+        "reason": "hidden metadata or temporary file"
+      }
+    ],
+    "kind": "source snapshot; not a compiled playable binary",
+    "import_date": "2026-10-25",
+    "history_note": "Reconstructed preservation snapshot; import order is not original development history.",
+    "commit": "d5ad7a674123b4360c52b936f8f179ae48a61644"
+  },
+  {
+    "source": "EmpiresOfElysia 7",
+    "origin": "folder",
+    "tag": "source-import/folder/empiresofelysia-7",
+    "source_archive_sha256": null,
+    "content_fingerprint_sha256": "7043d5ebfba396c4a236f083d61cf3d0ae384e058f8cc9b708d2838ca68c205d",
+    "files": 238,
+    "declared_versions": [
+      {
+        "project": "EmpiresOfElysia.xcodeproj/project.pbxproj",
+        "marketing": [
+          "1.5.1"
+        ],
+        "build": [
+          "16"
+        ]
+      }
+    ],
+    "excluded_files": [
+      {
+        "path": ".DS_Store",
+        "reason": "hidden metadata or temporary file"
+      }
+    ],
+    "kind": "source snapshot; not a compiled playable binary",
+    "import_date": "2026-10-25",
+    "history_note": "Reconstructed preservation snapshot; import order is not original development history.",
+    "commit": "7a52b7927f2f0ab75d3340df8ee9f0567e2c867f"
+  },
+  {
+    "source": "EmpiresOfElysia 8",
+    "origin": "folder",
+    "tag": "source-import/folder/empiresofelysia-8",
+    "source_archive_sha256": null,
+    "content_fingerprint_sha256": "a397db03ee2242413f6797557e85d6b283faf0d00b82a1cfb4a443097edbdebe",
+    "files": 500,
+    "declared_versions": [
+      {
+        "project": "EmpiresOfElysia.xcodeproj/project.pbxproj",
+        "marketing": [
+          "1.5.2"
+        ],
+        "build": [
+          "19"
+        ]
+      }
+    ],
+    "excluded_files": [
+      {
+        "path": ".DS_Store",
+        "reason": "hidden metadata or temporary file"
+      }
+    ],
+    "kind": "source snapshot; not a compiled playable binary",
+    "import_date": "2026-10-25",
+    "history_note": "Reconstructed preservation snapshot; import order is not original development history.",
+    "commit": "cbeb3de4e148fe81cc7d086b38957d787c4c0a75"
+  },
+  {
+    "source": "EmpiresOfElysia V1521",
+    "origin": "folder",
+    "tag": "source-import/folder/empiresofelysia-v1521",
+    "source_archive_sha256": null,
+    "content_fingerprint_sha256": "73b94aee114d6731d13b601ef999f44e7ab8d8be49fc2fc7dffec4eac42b18d5",
+    "files": 501,
+    "declared_versions": [
+      {
+        "project": "EmpiresOfElysiaV1521.xcodeproj/project.pbxproj",
+        "marketing": [
+          "1.5.2"
+        ],
+        "build": [
+          "19"
+        ]
+      }
+    ],
+    "excluded_files": [
+      {
+        "path": ".DS_Store",
+        "reason": "hidden metadata or temporary file"
+      }
+    ],
+    "kind": "source snapshot; not a compiled playable binary",
+    "import_date": "2026-10-25",
+    "history_note": "Reconstructed preservation snapshot; import order is not original development history.",
+    "commit": "45db843c65f8dbf4e592be321ad3b0d9df500ef3"
+  },
+  {
+    "source": "EmpiresOfElysia V1_2",
+    "origin": "folder",
+    "tag": "source-import/folder/empiresofelysia-v1_2",
+    "source_archive_sha256": null,
+    "content_fingerprint_sha256": "6aa0a3d23e18e6ba3a00ac618ece004d1a64c71543a55a52f733c628410aa32f",
+    "files": 127,
+    "declared_versions": [
+      {
+        "project": "EmpiresOfElysiaV1_2.xcodeproj/project.pbxproj",
+        "marketing": [
+          "1.2.1"
+        ],
+        "build": [
+          "13"
+        ]
+      }
+    ],
+    "excluded_files": [
+      {
+        "path": ".DS_Store",
+        "reason": "hidden metadata or temporary file"
+      }
+    ],
+    "kind": "source snapshot; not a compiled playable binary",
+    "import_date": "2026-10-25",
+    "history_note": "Reconstructed preservation snapshot; import order is not original development history.",
+    "commit": "ceafb43a6b721f520cf5444b1b069db8a7be51b7"
+  },
+  {
+    "source": "EmpiresOfElysia1_5",
+    "origin": "folder",
+    "tag": "source-import/folder/empiresofelysia1_5",
+    "source_archive_sha256": null,
+    "content_fingerprint_sha256": "6592d87784369242bc737355581c246293719ee44fc6b43098c884d43223d97b",
+    "files": 233,
+    "declared_versions": [
+      {
+        "project": "EmpiresOfElysiaV1_5.xcodeproj/project.pbxproj",
+        "marketing": [
+          "1.3.1"
+        ],
+        "build": [
+          "15"
+        ]
+      }
+    ],
+    "excluded_files": [
+      {
+        "path": ".DS_Store",
+        "reason": "hidden metadata or temporary file"
+      }
+    ],
+    "kind": "source snapshot; not a compiled playable binary",
+    "import_date": "2026-10-25",
+    "history_note": "Reconstructed preservation snapshot; import order is not original development history.",
+    "commit": "8dbde5a829478afc5705b9278d4c8614be825816"
+  },
+  {
+    "source": "EmpiresOfElysiaV101",
+    "origin": "folder",
+    "tag": "source-import/folder/empiresofelysiav101",
+    "source_archive_sha256": null,
+    "content_fingerprint_sha256": "94c66419bb80b7876bd462d2335f31e6dfb22ddfc2c087952f85b2612706bcc9",
+    "files": 113,
+    "declared_versions": [
+      {
+        "project": "EmpiresOfElysiaV101.xcodeproj/project.pbxproj",
+        "marketing": [
+          "1.0.1"
+        ],
+        "build": [
+          "11"
+        ]
+      }
+    ],
+    "excluded_files": [
+      {
+        "path": ".DS_Store",
+        "reason": "hidden metadata or temporary file"
+      }
+    ],
+    "kind": "source snapshot; not a compiled playable binary",
+    "import_date": "2026-10-25",
+    "history_note": "Reconstructed preservation snapshot; import order is not original development history.",
+    "commit": "823afafeb23b1f32fe41c346396363cec0e62e50"
+  },
+  {
+    "source": "EmpiresOfElysiaV131",
+    "origin": "folder",
+    "tag": "source-import/folder/empiresofelysiav131",
+    "source_archive_sha256": null,
+    "content_fingerprint_sha256": "ddc623c62fa7d4c9562bd209a546a61b756b7cc31b784da387a27a3a1b126258",
+    "files": 168,
+    "declared_versions": [
+      {
+        "project": "EmpiresOfElysiaV131.xcodeproj/project.pbxproj",
+        "marketing": [
+          "1.3.1"
+        ],
+        "build": [
+          "15"
+        ]
+      }
+    ],
+    "excluded_files": [
+      {
+        "path": ".DS_Store",
+        "reason": "hidden metadata or temporary file"
+      }
+    ],
+    "kind": "source snapshot; not a compiled playable binary",
+    "import_date": "2026-10-25",
+    "history_note": "Reconstructed preservation snapshot; import order is not original development history.",
+    "commit": "e80cc39d2de31122492c952fc12374082860c005"
+  },
+  {
+    "source": "EmpiresOfElysiaV141",
+    "origin": "folder",
+    "tag": "source-import/folder/empiresofelysiav141",
+    "source_archive_sha256": null,
+    "content_fingerprint_sha256": "5ace01622a9e0c6da9ea30e64ddea12b3f4cc3f87df131909c06e0dcc24c1918",
+    "files": 233,
+    "declared_versions": [
+      {
+        "project": "EmpiresOfElysiaV141.xcodeproj/project.pbxproj",
+        "marketing": [
+          "1.3.1"
+        ],
+        "build": [
+          "15"
+        ]
+      }
+    ],
+    "excluded_files": [
+      {
+        "path": ".DS_Store",
+        "reason": "hidden metadata or temporary file"
+      }
+    ],
+    "kind": "source snapshot; not a compiled playable binary",
+    "import_date": "2026-10-25",
+    "history_note": "Reconstructed preservation snapshot; import order is not original development history.",
+    "commit": "aacb4458adc32bb30c81397d314b88b1f2bc6ba8"
+  },
+  {
+    "source": "EmpiresOfElysiaV151",
+    "origin": "folder",
+    "tag": "source-import/folder/empiresofelysiav151",
+    "source_archive_sha256": null,
+    "content_fingerprint_sha256": "b5f428e216132fb4cd64fcf5eea34358edc3e4b8c675b3e65bbcc28e094c821a",
+    "files": 239,
+    "declared_versions": [
+      {
+        "project": "EmpiresOfElysiaV151.xcodeproj/project.pbxproj",
+        "marketing": [
+          "1.5.1"
+        ],
+        "build": [
+          "16"
+        ]
+      }
+    ],
+    "excluded_files": [
+      {
+        "path": ".DS_Store",
+        "reason": "hidden metadata or temporary file"
+      }
+    ],
+    "kind": "source snapshot; not a compiled playable binary",
+    "import_date": "2026-10-25",
+    "history_note": "Reconstructed preservation snapshot; import order is not original development history.",
+    "commit": "61c6e2cf9a44c241e2bd18b522d818b14a16f31c"
+  },
+  {
+    "source": "EmpiresOfElysiaV152",
+    "origin": "folder",
+    "tag": "source-import/folder/empiresofelysiav152",
+    "source_archive_sha256": null,
+    "content_fingerprint_sha256": "9c69eae8a8867e0ee00877e597d5c98fd097e05a2399b521b42929b6472a59b5",
+    "files": 381,
+    "declared_versions": [
+      {
+        "project": "EmpiresOfElysiaV152.xcodeproj/project.pbxproj",
+        "marketing": [
+          "1.5.2"
+        ],
+        "build": [
+          "17"
+        ]
+      }
+    ],
+    "excluded_files": [
+      {
+        "path": ".DS_Store",
+        "reason": "hidden metadata or temporary file"
+      }
+    ],
+    "kind": "source snapshot; not a compiled playable binary",
+    "import_date": "2026-10-25",
+    "history_note": "Reconstructed preservation snapshot; import order is not original development history.",
+    "commit": "49fec70d6ce4db2630ce05f179f37a26e873d3e3"
+  },
+  {
+    "source": "EmpiresOfElysiaV162",
+    "origin": "folder",
+    "tag": "source-import/folder/empiresofelysiav162",
+    "source_archive_sha256": null,
+    "content_fingerprint_sha256": "567442d9540edbb55e411f4396babedb5bae69840d17b769467735b77dc03d82",
+    "files": 603,
+    "declared_versions": [
+      {
+        "project": "EmpiresOfElysiaV162.xcodeproj/project.pbxproj",
+        "marketing": [
+          "1.6.2"
+        ],
+        "build": [
+          "21"
+        ]
+      }
+    ],
+    "excluded_files": [
+      {
+        "path": ".DS_Store",
+        "reason": "hidden metadata or temporary file"
+      },
+      {
+        "path": "EmpiresOfElysia/.DS_Store",
+        "reason": "hidden metadata or temporary file"
+      },
+      {
+        "path": "EmpiresOfElysia/Assets.xcassets/.DS_Store",
+        "reason": "hidden metadata or temporary file"
+      }
+    ],
+    "kind": "source snapshot; not a compiled playable binary",
+    "import_date": "2026-10-25",
+    "history_note": "Reconstructed preservation snapshot; import order is not original development history.",
+    "commit": "6427c6bff61a2d1798b303b9d4c0dc07d1f7f082"
+  },
+  {
+    "source": "EmpiresOfElysiaV163",
+    "origin": "folder",
+    "tag": "source-import/folder/empiresofelysiav163",
+    "source_archive_sha256": null,
+    "content_fingerprint_sha256": "87f0d65fc6a9be87f918269c45d1aac995b787b9d43384310041ce1b3ffff159",
+    "files": 609,
+    "declared_versions": [
+      {
+        "project": "EmpiresOfElysiaV163.xcodeproj/project.pbxproj",
+        "marketing": [
+          "1.6.3"
+        ],
+        "build": [
+          "22"
+        ]
+      }
+    ],
+    "excluded_files": [
+      {
+        "path": ".DS_Store",
+        "reason": "hidden metadata or temporary file"
+      },
+      {
+        "path": "EmpiresOfElysia/.DS_Store",
+        "reason": "hidden metadata or temporary file"
+      },
+      {
+        "path": "EmpiresOfElysia/Assets.xcassets/.DS_Store",
+        "reason": "hidden metadata or temporary file"
+      },
+      {
+        "path": "EmpiresOfElysia/Assets.xcassets/menu_start_tutorial_button.imageset/.art.png.5mn9nD",
+        "reason": "hidden metadata or temporary file"
+      },
+      {
+        "path": "EmpiresOfElysia/Assets.xcassets/skin_cowgirls_scout.imageset/.art.png.K6GWEV",
+        "reason": "hidden metadata or temporary file"
+      }
+    ],
+    "kind": "source snapshot; not a compiled playable binary",
+    "import_date": "2026-10-25",
+    "history_note": "Reconstructed preservation snapshot; import order is not original development history.",
+    "commit": "333fc918edbd84ddad5ca6df717b664edd8fbb7d"
+  },
+  {
+    "source": "EmpiresofElysiaV1631",
+    "origin": "folder",
+    "tag": "source-import/folder/empiresofelysiav1631",
+    "source_archive_sha256": null,
+    "content_fingerprint_sha256": "ac51b6e5adf0622c618b6d2fcc2c7c4cd385498f36107d3ed8d40ee909272b32",
+    "files": 609,
+    "declared_versions": [
+      {
+        "project": "EmpiresOfElysiaV1631.xcodeproj/project.pbxproj",
+        "marketing": [
+          "1.6.3"
+        ],
+        "build": [
+          "22"
+        ]
+      }
+    ],
+    "excluded_files": [
+      {
+        "path": ".DS_Store",
+        "reason": "hidden metadata or temporary file"
+      },
+      {
+        "path": "ApprovedBossMasters/.04_Iron_Colossus.png.B9XVin",
+        "reason": "hidden metadata or temporary file"
+      },
+      {
+        "path": "EmpiresOfElysia/.DS_Store",
+        "reason": "hidden metadata or temporary file"
+      },
+      {
+        "path": "EmpiresOfElysia/Assets.xcassets/.DS_Store",
+        "reason": "hidden metadata or temporary file"
+      },
+      {
+        "path": "EmpiresOfElysia/Assets.xcassets/menu_start_tutorial_button.imageset/.art.png.5mn9nD",
+        "reason": "hidden metadata or temporary file"
+      },
+      {
+        "path": "EmpiresOfElysia/Assets.xcassets/queen_saracens.imageset/.queen.png.pqpfFq",
+        "reason": "hidden metadata or temporary file"
+      },
+      {
+        "path": "EmpiresOfElysia/Assets.xcassets/skin_cowgirls_scout.imageset/.art.png.K6GWEV",
+        "reason": "hidden metadata or temporary file"
+      },
+      {
+        "path": "EmpiresOfElysia/Assets.xcassets/skin_persians_infantry.imageset/.art.png.FxgffF",
+        "reason": "hidden metadata or temporary file"
+      }
+    ],
+    "kind": "source snapshot; not a compiled playable binary",
+    "import_date": "2026-10-25",
+    "history_note": "Reconstructed preservation snapshot; import order is not original development history.",
+    "commit": "8567b178d717335db80b5f64fd5c0ff41bcf44c5"
+  },
+  {
+    "source": "EmpiresOfElysiaV164",
+    "origin": "folder",
+    "tag": "source-import/folder/empiresofelysiav164",
+    "source_archive_sha256": null,
+    "content_fingerprint_sha256": "b9937ecd537bb13f5b9d296fcd6edf9d9e377b44b73b357b7fe7262967761b48",
+    "files": 620,
+    "declared_versions": [
+      {
+        "project": "EmpiresOfElysiaV164.xcodeproj/project.pbxproj",
+        "marketing": [
+          "1.6.4"
+        ],
+        "build": [
+          "23"
+        ]
+      }
+    ],
+    "excluded_files": [
+      {
+        "path": ".DS_Store",
+        "reason": "hidden metadata or temporary file"
+      },
+      {
+        "path": "ApprovedBossMasters/.04_Iron_Colossus.png.B9XVin",
+        "reason": "hidden metadata or temporary file"
+      },
+      {
+        "path": "EmpiresOfElysia/Assets.xcassets/menu_start_tutorial_button.imageset/.art.png.5mn9nD",
+        "reason": "hidden metadata or temporary file"
+      },
+      {
+        "path": "EmpiresOfElysia/Assets.xcassets/queen_saracens.imageset/.queen.png.pqpfFq",
+        "reason": "hidden metadata or temporary file"
+      },
+      {
+        "path": "EmpiresOfElysia/Assets.xcassets/skin_britons_archer.imageset/.art.png.1VkXk6",
+        "reason": "hidden metadata or temporary file"
+      },
+      {
+        "path": "EmpiresOfElysia/Assets.xcassets/skin_cowgirls_scout.imageset/.art.png.K6GWEV",
+        "reason": "hidden metadata or temporary file"
+      },
+      {
+        "path": "EmpiresOfElysia/Assets.xcassets/skin_persians_infantry.imageset/.art.png.FxgffF",
+        "reason": "hidden metadata or temporary file"
+      },
+      {
+        "path": "EmpiresOfElysia/Assets.xcassets/tutorial_queen_succubi.imageset/.art.png.pUC2fJ",
+        "reason": "hidden metadata or temporary file"
+      }
+    ],
+    "kind": "source snapshot; not a compiled playable binary",
+    "import_date": "2026-10-25",
+    "history_note": "Reconstructed preservation snapshot; import order is not original development history.",
+    "commit": "18d5863a7c29e1813328134f974f90900dc0697b"
+  },
+  {
+    "source": "EmpiresOfElysiaV1641",
+    "origin": "folder",
+    "tag": "source-import/folder/empiresofelysiav1641",
+    "source_archive_sha256": null,
+    "content_fingerprint_sha256": "313262aa5619cd9eede4b98e570d141bf77cfda59898e49dcb412292f349911b",
+    "files": 621,
+    "declared_versions": [
+      {
+        "project": "EmpiresOfElysaV1641.xcodeproj/project.pbxproj",
+        "marketing": [
+          "1.6.4"
+        ],
+        "build": [
+          "24"
+        ]
+      }
+    ],
+    "excluded_files": [
+      {
+        "path": ".DS_Store",
+        "reason": "hidden metadata or temporary file"
+      },
+      {
+        "path": "ApprovedBossMasters/.04_Iron_Colossus.png.B9XVin",
+        "reason": "hidden metadata or temporary file"
+      },
+      {
+        "path": "EmpiresOfElysia/.DS_Store",
+        "reason": "hidden metadata or temporary file"
+      },
+      {
+        "path": "EmpiresOfElysia/Assets.xcassets/.DS_Store",
+        "reason": "hidden metadata or temporary file"
+      },
+      {
+        "path": "EmpiresOfElysia/Assets.xcassets/menu_start_tutorial_button.imageset/.art.png.5mn9nD",
+        "reason": "hidden metadata or temporary file"
+      },
+      {
+        "path": "EmpiresOfElysia/Assets.xcassets/queen_saracens.imageset/.queen.png.pqpfFq",
+        "reason": "hidden metadata or temporary file"
+      },
+      {
+        "path": "EmpiresOfElysia/Assets.xcassets/skin_britons_archer.imageset/.art.png.1VkXk6",
+        "reason": "hidden metadata or temporary file"
+      },
+      {
+        "path": "EmpiresOfElysia/Assets.xcassets/skin_cowgirls_scout.imageset/.art.png.K6GWEV",
+        "reason": "hidden metadata or temporary file"
+      },
+      {
+        "path": "EmpiresOfElysia/Assets.xcassets/skin_persians_infantry.imageset/.art.png.FxgffF",
+        "reason": "hidden metadata or temporary file"
+      },
+      {
+        "path": "EmpiresOfElysia/Assets.xcassets/skin_persians_villager.imageset/.art.png.BYpu3Z",
+        "reason": "hidden metadata or temporary file"
+      },
+      {
+        "path": "EmpiresOfElysia/Assets.xcassets/tutorial_queen_succubi.imageset/.art.png.pUC2fJ",
+        "reason": "hidden metadata or temporary file"
+      }
+    ],
+    "kind": "source snapshot; not a compiled playable binary",
+    "import_date": "2026-10-25",
+    "history_note": "Reconstructed preservation snapshot; import order is not original development history.",
+    "commit": "0840a3fcd7e51984d66450a8dd2304274aee8350"
+  },
+  {
+    "source": "EmpiresOfElysiaV164b",
+    "origin": "folder",
+    "tag": "source-import/folder/empiresofelysiav164b",
+    "source_archive_sha256": null,
+    "content_fingerprint_sha256": "70fcf12b2b0e7c81755fa7667f61db36dca20500d51f9ed807e125637f94d47e",
+    "files": 622,
+    "declared_versions": [
+      {
+        "project": "EmpiresOfElysiaV164b.xcodeproj/project.pbxproj",
+        "marketing": [
+          "1.6.4"
+        ],
+        "build": [
+          "25"
+        ]
+      }
+    ],
+    "excluded_files": [
+      {
+        "path": ".DS_Store",
+        "reason": "hidden metadata or temporary file"
+      },
+      {
+        "path": "ApprovedBossMasters/.04_Iron_Colossus.png.B9XVin",
+        "reason": "hidden metadata or temporary file"
+      },
+      {
+        "path": "EmpiresOfElysia/.DS_Store",
+        "reason": "hidden metadata or temporary file"
+      },
+      {
+        "path": "EmpiresOfElysia/Assets.xcassets/.DS_Store",
+        "reason": "hidden metadata or temporary file"
+      },
+      {
+        "path": "EmpiresOfElysia/Assets.xcassets/menu_faction_frame_idle.imageset/.art.png.bhaepx",
+        "reason": "hidden metadata or temporary file"
+      },
+      {
+        "path": "EmpiresOfElysia/Assets.xcassets/menu_start_tutorial_button.imageset/.art.png.5mn9nD",
+        "reason": "hidden metadata or temporary file"
+      },
+      {
+        "path": "EmpiresOfElysia/Assets.xcassets/queen_saracens.imageset/.queen.png.pqpfFq",
+        "reason": "hidden metadata or temporary file"
+      },
+      {
+        "path": "EmpiresOfElysia/Assets.xcassets/skin_britons_archer.imageset/.art.png.1VkXk6",
+        "reason": "hidden metadata or temporary file"
+      },
+      {
+        "path": "EmpiresOfElysia/Assets.xcassets/skin_cowgirls_scout.imageset/.art.png.K6GWEV",
+        "reason": "hidden metadata or temporary file"
+      },
+      {
+        "path": "EmpiresOfElysia/Assets.xcassets/skin_persians_infantry.imageset/.art.png.FxgffF",
+        "reason": "hidden metadata or temporary file"
+      },
+      {
+        "path": "EmpiresOfElysia/Assets.xcassets/skin_persians_villager.imageset/.art.png.BYpu3Z",
+        "reason": "hidden metadata or temporary file"
+      },
+      {
+        "path": "EmpiresOfElysia/Assets.xcassets/tutorial_queen_succubi.imageset/.art.png.pUC2fJ",
+        "reason": "hidden metadata or temporary file"
+      }
+    ],
+    "kind": "source snapshot; not a compiled playable binary",
+    "import_date": "2026-10-25",
+    "history_note": "Reconstructed preservation snapshot; import order is not original development history.",
+    "commit": "fb951a2c1ac2870a0421f3d0a944369b358c2c7e"
+  },
+  {
+    "source": "EmpiresOfElysiaV165",
+    "origin": "folder",
+    "tag": "source-import/folder/empiresofelysiav165",
+    "source_archive_sha256": null,
+    "content_fingerprint_sha256": "4c15e76a06409c078b6339ddde4d5e2541cbb382e111d66b66062ee5d472eab4",
+    "files": 625,
+    "declared_versions": [
+      {
+        "project": "EmpiresOfElysiaV165.xcodeproj/project.pbxproj",
+        "marketing": [
+          "1.6.5"
+        ],
+        "build": [
+          "26"
+        ]
+      }
+    ],
+    "excluded_files": [
+      {
+        "path": ".DS_Store",
+        "reason": "hidden metadata or temporary file"
+      },
+      {
+        "path": "ApprovedBossMasters/.04_Iron_Colossus.png.B9XVin",
+        "reason": "hidden metadata or temporary file"
+      },
+      {
+        "path": "EmpiresOfElysia/.DS_Store",
+        "reason": "hidden metadata or temporary file"
+      },
+      {
+        "path": "EmpiresOfElysia/Assets.xcassets/.DS_Store",
+        "reason": "hidden metadata or temporary file"
+      },
+      {
+        "path": "EmpiresOfElysia/Assets.xcassets/menu_faction_frame_idle.imageset/.art.png.bhaepx",
+        "reason": "hidden metadata or temporary file"
+      },
+      {
+        "path": "EmpiresOfElysia/Assets.xcassets/menu_start_tutorial_button.imageset/.art.png.5mn9nD",
+        "reason": "hidden metadata or temporary file"
+      },
+      {
+        "path": "EmpiresOfElysia/Assets.xcassets/queen_saracens.imageset/.queen.png.pqpfFq",
+        "reason": "hidden metadata or temporary file"
+      },
+      {
+        "path": "EmpiresOfElysia/Assets.xcassets/skin_britons_archer.imageset/.art.png.1VkXk6",
+        "reason": "hidden metadata or temporary file"
+      },
+      {
+        "path": "EmpiresOfElysia/Assets.xcassets/skin_chinese_villager.imageset/.art.png.Fl8xjt",
+        "reason": "hidden metadata or temporary file"
+      },
+      {
+        "path": "EmpiresOfElysia/Assets.xcassets/skin_cowgirls_scout.imageset/.art.png.K6GWEV",
+        "reason": "hidden metadata or temporary file"
+      },
+      {
+        "path": "EmpiresOfElysia/Assets.xcassets/skin_persians_infantry.imageset/.art.png.FxgffF",
+        "reason": "hidden metadata or temporary file"
+      },
+      {
+        "path": "EmpiresOfElysia/Assets.xcassets/skin_persians_villager.imageset/.art.png.BYpu3Z",
+        "reason": "hidden metadata or temporary file"
+      },
+      {
+        "path": "EmpiresOfElysia/Assets.xcassets/tutorial_queen_cowgirls.imageset/.art.png.ksgQhb",
+        "reason": "hidden metadata or temporary file"
+      },
+      {
+        "path": "EmpiresOfElysia/Assets.xcassets/tutorial_queen_succubi.imageset/.art.png.pUC2fJ",
+        "reason": "hidden metadata or temporary file"
+      }
+    ],
+    "kind": "source snapshot; not a compiled playable binary",
+    "import_date": "2026-10-25",
+    "history_note": "Reconstructed preservation snapshot; import order is not original development history.",
+    "commit": "005bea88cf95fde70290669d1033746beda68b0b"
+  },
+  {
+    "source": "EmpiresOfElysiaV167",
+    "origin": "folder",
+    "tag": "source-import/folder/empiresofelysiav167",
+    "source_archive_sha256": null,
+    "content_fingerprint_sha256": "78e94d64bfa50056d6d9570acadbfb49c95711ab8532910762a7fa465e9125eb",
+    "files": 700,
+    "declared_versions": [
+      {
+        "project": "EmpiresOfElysiaV167.xcodeproj/project.pbxproj",
+        "marketing": [
+          "1.6.7"
+        ],
+        "build": [
+          "28"
+        ]
+      }
+    ],
+    "excluded_files": [
+      {
+        "path": ".DS_Store",
+        "reason": "hidden metadata or temporary file"
+      },
+      {
+        "path": "EmpiresOfElysia/Assets.xcassets/queen_angels.imageset/.art.png.MUdh3E",
+        "reason": "hidden metadata or temporary file"
+      },
+      {
+        "path": "EmpiresOfElysia/Assets.xcassets/skin_goths_infantry.imageset/.art.png.XV5KUL",
+        "reason": "hidden metadata or temporary file"
+      }
+    ],
+    "kind": "source snapshot; not a compiled playable binary",
+    "import_date": "2026-10-25",
+    "history_note": "Reconstructed preservation snapshot; import order is not original development history.",
+    "commit": "5e03c2b0356c987846b984fcfd9bfc762db1d7b4"
+  },
+  {
+    "source": "EmpiresOfElysiaV1672",
+    "origin": "folder",
+    "tag": "source-import/folder/empiresofelysiav1672",
+    "source_archive_sha256": null,
+    "content_fingerprint_sha256": "f4b4d37c539fcdd4d2db402d59a1c6578c9145619e7b77c52c7fc8284e68d5c0",
+    "files": 705,
+    "declared_versions": [
+      {
+        "project": "EmpiresOfElysiaV1672.xcodeproj/project.pbxproj",
+        "marketing": [
+          "1.6.7"
+        ],
+        "build": [
+          "28"
+        ]
+      }
+    ],
+    "excluded_files": [
+      {
+        "path": ".DS_Store",
+        "reason": "hidden metadata or temporary file"
+      },
+      {
+        "path": "EmpiresOfElysia/Assets.xcassets/queen_angels.imageset/.art.png.MUdh3E",
+        "reason": "hidden metadata or temporary file"
+      },
+      {
+        "path": "EmpiresOfElysia/Assets.xcassets/skin_goths_infantry.imageset/.art.png.XV5KUL",
+        "reason": "hidden metadata or temporary file"
+      }
+    ],
+    "kind": "source snapshot; not a compiled playable binary",
+    "import_date": "2026-10-25",
+    "history_note": "Reconstructed preservation snapshot; import order is not original development history.",
+    "commit": "cc7d1d3534458a7cad9460820bc96983e8686a41"
+  },
+  {
+    "source": "EmpiresOfElysiaV1_0",
+    "origin": "folder",
+    "tag": "source-import/folder/empiresofelysiav1_0",
+    "source_archive_sha256": null,
+    "content_fingerprint_sha256": "772ba5e963347ef559d50e655537f68813e8588948edeeaa73c89e27020a62d9",
+    "files": 110,
+    "declared_versions": [
+      {
+        "project": "EmpiresOfElysiaV1_0.xcodeproj/project.pbxproj",
+        "marketing": [
+          "1.0"
+        ],
+        "build": [
+          "10"
+        ]
+      }
+    ],
+    "excluded_files": [
+      {
+        "path": ".DS_Store",
+        "reason": "hidden metadata or temporary file"
+      }
+    ],
+    "kind": "source snapshot; not a compiled playable binary",
+    "import_date": "2026-10-25",
+    "history_note": "Reconstructed preservation snapshot; import order is not original development history.",
+    "commit": "cb7944c09a0455c879d3bc7225aafded31d63d25"
+  },
+  {
+    "source": "EmpiresOfElysiaV1_1",
+    "origin": "folder",
+    "tag": "source-import/folder/empiresofelysiav1_1",
+    "source_archive_sha256": null,
+    "content_fingerprint_sha256": "e581f37136300a197a470c04c245aa69d7a4f7d002b6876c5185920206cc010f",
+    "files": 113,
+    "declared_versions": [
+      {
+        "project": "EmpiresOfElysiaV1_1.xcodeproj/project.pbxproj",
+        "marketing": [
+          "1.0.1"
+        ],
+        "build": [
+          "11"
+        ]
+      }
+    ],
+    "excluded_files": [
+      {
+        "path": ".DS_Store",
+        "reason": "hidden metadata or temporary file"
+      }
+    ],
+    "kind": "source snapshot; not a compiled playable binary",
+    "import_date": "2026-10-25",
+    "history_note": "Reconstructed preservation snapshot; import order is not original development history.",
+    "commit": "e3c323c8775a5fadbcef3c4ffe5db6ac34a5f5b2"
+  },
+  {
+    "source": "EmpiresOfElysiav1_2",
+    "origin": "folder",
+    "tag": "source-import/folder/empiresofelysiav1_2",
+    "source_archive_sha256": null,
+    "content_fingerprint_sha256": "111c9bbe7d55f8fa7703f556365772da4cdc95db49a9b56ff3f11516457f868f",
+    "files": 126,
+    "declared_versions": [
+      {
+        "project": "EmpiresOfElysiaV1_2.xcodeproj/project.pbxproj",
+        "marketing": [
+          "1.2"
+        ],
+        "build": [
+          "12"
+        ]
+      }
+    ],
+    "excluded_files": [
+      {
+        "path": ".DS_Store",
+        "reason": "hidden metadata or temporary file"
+      }
+    ],
+    "kind": "source snapshot; not a compiled playable binary",
+    "import_date": "2026-10-25",
+    "history_note": "Reconstructed preservation snapshot; import order is not original development history.",
+    "commit": "c5832e2165ed19bc88c326cf5bf456682b35fae9"
+  },
+  {
+    "source": "EmpiresOfElysiaV1_3",
+    "origin": "folder",
+    "tag": "source-import/folder/empiresofelysiav1_3",
+    "source_archive_sha256": null,
+    "content_fingerprint_sha256": "1a8e1d992aef675f9eae6776efaced387e8f0940b745c7c1e8e68a941bbc7194",
+    "files": 164,
+    "declared_versions": [
+      {
+        "project": "EmpiresOfElysiaV1_3.xcodeproj/project.pbxproj",
+        "marketing": [
+          "1.3"
+        ],
+        "build": [
+          "14"
+        ]
+      }
+    ],
+    "excluded_files": [
+      {
+        "path": ".DS_Store",
+        "reason": "hidden metadata or temporary file"
+      }
+    ],
+    "kind": "source snapshot; not a compiled playable binary",
+    "import_date": "2026-10-25",
+    "history_note": "Reconstructed preservation snapshot; import order is not original development history.",
+    "commit": "47e96d989c6892ce29add6b5526c6f0aa53a3896"
+  },
+  {
+    "source": "EmpiresOfElysiaV1_4",
+    "origin": "folder",
+    "tag": "source-import/folder/empiresofelysiav1_4",
+    "source_archive_sha256": null,
+    "content_fingerprint_sha256": "762e569d68f2efebca549566e71d554a38c88b4555f10cbee01973f1070fcd11",
+    "files": 233,
+    "declared_versions": [
+      {
+        "project": "EmpiresOfElysiaV1_4.xcodeproj/project.pbxproj",
+        "marketing": [
+          "1.3.1"
+        ],
+        "build": [
+          "15"
+        ]
+      }
+    ],
+    "excluded_files": [
+      {
+        "path": ".DS_Store",
+        "reason": "hidden metadata or temporary file"
+      }
+    ],
+    "kind": "source snapshot; not a compiled playable binary",
+    "import_date": "2026-10-25",
+    "history_note": "Reconstructed preservation snapshot; import order is not original development history.",
+    "commit": "8855f0d08976fa64535dc168edae52015137d488"
+  },
+  {
+    "source": "EmpiresOfElysiaV1_6_0",
+    "origin": "folder",
+    "tag": "source-import/folder/empiresofelysiav1_6_0",
+    "source_archive_sha256": null,
+    "content_fingerprint_sha256": "825c57dc43710b00a4d7567cfa9bd11f4aff1ea08a7fad23b582cca4e8412bfd",
+    "files": 531,
+    "declared_versions": [
+      {
+        "project": "EmpiresOfElysiaV1_6_0.xcodeproj/project.pbxproj",
+        "marketing": [
+          "1.6.0"
+        ],
+        "build": [
+          "20"
+        ]
+      }
+    ],
+    "excluded_files": [
+      {
+        "path": ".DS_Store",
+        "reason": "hidden metadata or temporary file"
+      }
+    ],
+    "kind": "source snapshot; not a compiled playable binary",
+    "import_date": "2026-10-25",
+    "history_note": "Reconstructed preservation snapshot; import order is not original development history.",
+    "commit": "d86c039c6d4286d3090b529531d1f2254757be33"
+  },
+  {
+    "source": "EmpiresOfElysiav5",
+    "origin": "folder",
+    "tag": "source-import/folder/empiresofelysiav5",
+    "source_archive_sha256": null,
+    "content_fingerprint_sha256": "2ec0cc6bc9ecd593c466b49beefe93684e3e96db121a0eacd8db5e5fb30ba720",
+    "files": 11,
+    "declared_versions": [
+      {
+        "project": "EmpiresOfElysiaV5.xcodeproj/project.pbxproj",
+        "marketing": [
+          "1.0"
+        ],
+        "build": [
+          "1"
+        ]
+      }
+    ],
+    "excluded_files": [
+      {
+        "path": ".DS_Store",
+        "reason": "hidden metadata or temporary file"
+      }
+    ],
+    "kind": "source snapshot; not a compiled playable binary",
+    "import_date": "2026-10-25",
+    "history_note": "Reconstructed preservation snapshot; import order is not original development history.",
+    "commit": "a0c6751930273678fd7b2e57db9e18d0bcb85ab4"
+  },
+  {
+    "source": "EmpiresOfElysiaV6",
+    "origin": "folder",
+    "tag": "source-import/folder/empiresofelysiav6",
+    "source_archive_sha256": null,
+    "content_fingerprint_sha256": "d29abbf5e13e0548fa9d13b33a1c7d187f5cd5655296311d323dceed6c82f79e",
+    "files": 14,
+    "declared_versions": [
+      {
+        "project": "EmpiresOfElysiaV6.xcodeproj/project.pbxproj",
+        "marketing": [
+          "0.6"
+        ],
+        "build": [
+          "1"
+        ]
+      }
+    ],
+    "excluded_files": [
+      {
+        "path": ".DS_Store",
+        "reason": "hidden metadata or temporary file"
+      }
+    ],
+    "kind": "source snapshot; not a compiled playable binary",
+    "import_date": "2026-10-25",
+    "history_note": "Reconstructed preservation snapshot; import order is not original development history.",
+    "commit": "929e25110427260f7a5a5047e2a8ca22595d3d56"
+  },
+  {
+    "source": "EmpiresOfElysiaV7",
+    "origin": "folder",
+    "tag": "source-import/folder/empiresofelysiav7",
+    "source_archive_sha256": null,
+    "content_fingerprint_sha256": "c4abb72b587cd815c057b429db2c6940f3444ce4ebe51d79f37c12eef0e56982",
+    "files": 16,
+    "declared_versions": [
+      {
+        "project": "EmpiresOfElysiaV7.xcodeproj/project.pbxproj",
+        "marketing": [
+          "0.7"
+        ],
+        "build": [
+          "1"
+        ]
+      }
+    ],
+    "excluded_files": [
+      {
+        "path": ".DS_Store",
+        "reason": "hidden metadata or temporary file"
+      }
+    ],
+    "kind": "source snapshot; not a compiled playable binary",
+    "import_date": "2026-10-25",
+    "history_note": "Reconstructed preservation snapshot; import order is not original development history.",
+    "commit": "40d7e6b8c904717adbe443ccacfed46a6d97a7bf"
+  },
+  {
+    "source": "EmpiresOfElysiaV8",
+    "origin": "folder",
+    "tag": "source-import/folder/empiresofelysiav8",
+    "source_archive_sha256": null,
+    "content_fingerprint_sha256": "aa0b4e0f78ea128456bfdd93fec82ba73458138cffdb8e3dbae3e616faa918b6",
+    "files": 16,
+    "declared_versions": [
+      {
+        "project": "EmpiresOfElysiaV8.xcodeproj/project.pbxproj",
+        "marketing": [
+          "0.7"
+        ],
+        "build": [
+          "1"
+        ]
+      }
+    ],
+    "excluded_files": [
+      {
+        "path": ".DS_Store",
+        "reason": "hidden metadata or temporary file"
+      }
+    ],
+    "kind": "source snapshot; not a compiled playable binary",
+    "import_date": "2026-10-25",
+    "history_note": "Reconstructed preservation snapshot; import order is not original development history.",
+    "commit": "cda144d38c354d389cbb98cf46a388d26f1b44a9"
+  },
+  {
+    "source": "EmpiresOfElysiaV9",
+    "origin": "folder",
+    "tag": "source-import/folder/empiresofelysiav9",
+    "source_archive_sha256": null,
+    "content_fingerprint_sha256": "d65798115edfea9821e3fea0c44da30a5eb9936bff4939ff0dba52569e173a9f",
+    "files": 89,
+    "declared_versions": [
+      {
+        "project": "EmpiresOfElysiaV9.xcodeproj/project.pbxproj",
+        "marketing": [
+          "0.7"
+        ],
+        "build": [
+          "9"
+        ]
+      }
+    ],
+    "excluded_files": [
+      {
+        "path": ".DS_Store",
+        "reason": "hidden metadata or temporary file"
+      }
+    ],
+    "kind": "source snapshot; not a compiled playable binary",
+    "import_date": "2026-10-25",
+    "history_note": "Reconstructed preservation snapshot; import order is not original development history.",
+    "commit": "02a3a341ad38e1491d8f2759e7834580bc3c169d"
+  },
+  {
+    "source": "EmpiresOfElysia-v1.3.1-Xcode(1).zip",
+    "origin": "library",
+    "tag": "source-import/library/empiresofelysia-v1.3.1-xcode-1-",
+    "source_archive_sha256": "d99a6d76ef5fc24e1a2f813fe773cac7d59e10e4d24cd8eef67156b1a5840595",
+    "content_fingerprint_sha256": "df1cc60822b27d391f4d890aea1cd510328766e857fbbc4ae5488f6af0afae23",
+    "files": 167,
+    "declared_versions": [
+      {
+        "project": "EmpiresOfElysia.xcodeproj/project.pbxproj",
+        "marketing": [
+          "1.3.1"
+        ],
+        "build": [
+          "15"
+        ]
+      }
+    ],
+    "excluded_files": [],
+    "kind": "source snapshot; not a compiled playable binary",
+    "import_date": "2026-10-25",
+    "history_note": "Reconstructed preservation snapshot; import order is not original development history.",
+    "commit": "c2f6c6adc8f3a53e029ba3ddf861365ff8ca522c"
+  },
+  {
+    "source": "EmpiresOfElysia-v1.6.6-build27-Playable-tutorial-Xcode.zip",
+    "origin": "library",
+    "tag": "source-import/library/empiresofelysia-v1.6.6-build27-playable-tutorial-xcode",
+    "source_archive_sha256": "f8165b26413f762a40a93c76806acd9a55b6f7e08cb9c66352d10de77fad0e57",
+    "content_fingerprint_sha256": "c6fbb8e656ee00d6cfed37570fa6e7fd034fda72220baa30fda5e40009d69ae7",
+    "files": 631,
+    "declared_versions": [
+      {
+        "project": "EmpiresOfElysia.xcodeproj/project.pbxproj",
+        "marketing": [
+          "1.6.6"
+        ],
+        "build": [
+          "27"
+        ]
+      }
+    ],
+    "excluded_files": [],
+    "kind": "source snapshot; not a compiled playable binary",
+    "import_date": "2026-10-25",
+    "history_note": "Reconstructed preservation snapshot; import order is not original development history.",
+    "commit": "2987ed61d896998a2e7962f87703080ef89ba9d6"
+  },
+  {
+    "source": "EmpiresOfElysia-v1.6.7-build28-H1-Typecheck-fix-Xcode.zip",
+    "origin": "library",
+    "tag": "source-import/library/empiresofelysia-v1.6.7-build28-h1-typecheck-fix-xcode",
+    "source_archive_sha256": "6a3e9e6798588389236eaece84777e3f9b890286cecfeb2182201156fb48f876",
+    "content_fingerprint_sha256": "3b3b38e4a8e211eed4768f0ed8c91093c0c192418119eaa367966c65948f754c",
+    "files": 701,
+    "declared_versions": [
+      {
+        "project": "EmpiresOfElysia.xcodeproj/project.pbxproj",
+        "marketing": [
+          "1.6.7"
+        ],
+        "build": [
+          "28"
+        ]
+      }
+    ],
+    "excluded_files": [
+      {
+        "path": "EmpiresOfElysia/Assets.xcassets/queen_angels.imageset/.art.png.MUdh3E",
+        "reason": "hidden metadata or temporary file"
+      },
+      {
+        "path": "EmpiresOfElysia/Assets.xcassets/skin_goths_infantry.imageset/.art.png.XV5KUL",
+        "reason": "hidden metadata or temporary file"
+      }
+    ],
+    "kind": "source snapshot; not a compiled playable binary",
+    "import_date": "2026-10-25",
+    "history_note": "Reconstructed preservation snapshot; import order is not original development history.",
+    "commit": "b15f840fb78551b65314b544c53103a18cd9760d"
+  },
+  {
+    "source": "EmpiresOfElysia-v1.6.7-build28-H3-Autosave-Continue-Xcode.zip",
+    "origin": "library",
+    "tag": "source-import/library/empiresofelysia-v1.6.7-build28-h3-autosave-continue-xcode",
+    "source_archive_sha256": "9696e6ce7af15eb6f34193e1afb857c99a45fa70d76740861d85f1176ef868a2",
+    "content_fingerprint_sha256": "1b3b9d394ef79f10fc7ac854996d7c766930b15d549c8b9d186ad643d4ca8864",
+    "files": 709,
+    "declared_versions": [
+      {
+        "project": "EmpiresOfElysia.xcodeproj/project.pbxproj",
+        "marketing": [
+          "1.6.7"
+        ],
+        "build": [
+          "28"
+        ]
+      }
+    ],
+    "excluded_files": [
+      {
+        "path": "EmpiresOfElysia/Assets.xcassets/queen_angels.imageset/.art.png.MUdh3E",
+        "reason": "hidden metadata or temporary file"
+      },
+      {
+        "path": "EmpiresOfElysia/Assets.xcassets/skin_goths_infantry.imageset/.art.png.XV5KUL",
+        "reason": "hidden metadata or temporary file"
+      }
+    ],
+    "kind": "source snapshot; not a compiled playable binary",
+    "import_date": "2026-10-25",
+    "history_note": "Reconstructed preservation snapshot; import order is not original development history.",
+    "commit": "764a29bfd581c77d47c2f849cd7b7f64e5409ff2"
+  },
+  {
+    "source": "EmpiresOfElysia-v0.2",
+    "origin": "local-extra",
+    "tag": "source-import/local-extra/empiresofelysia-v0.2",
+    "source_archive_sha256": null,
+    "content_fingerprint_sha256": "dde5e4d009caf698f30f3cc3d03c3e5a61562ec90b521e9be0d967643a8fcc6e",
+    "files": 1,
+    "declared_versions": [],
+    "excluded_files": [
+      {
+        "path": ".DS_Store",
+        "reason": "hidden metadata or temporary file"
+      }
+    ],
+    "kind": "incomplete project-only local folder; complete v0.2 source available under archive tag",
+    "import_date": "2026-10-25",
+    "history_note": "Reconstructed preservation snapshot; import order is not original development history.",
+    "commit": "3a32043a66e0b21b526213ee697990e0d110678d"
+  },
+  {
+    "source": "elysia-supplemental-art",
+    "origin": "supplemental-art",
+    "tag": "source-import/supplemental-art/elysia-supplemental-art",
+    "source_archive_sha256": null,
+    "content_fingerprint_sha256": "4c476bcda671d014ff858824a1b29f5bdd782866b65fbe8e381d215b4e578e19",
+    "files": 3,
+    "declared_versions": [],
+    "excluded_files": [],
+    "kind": "source snapshot; not a compiled playable binary",
+    "import_date": "2026-10-25",
+    "history_note": "Reconstructed preservation snapshot; import order is not original development history.",
+    "commit": "791ea9364d8b47dccc4566c5ff79b67961c3b0f0"
+  },
+  {
+    "source": "Elysia-v1672-validation",
+    "origin": "verified-local",
+    "tag": "source-import/verified-local/elysia-v1672-validation",
+    "source_archive_sha256": null,
+    "content_fingerprint_sha256": "cdbe16173166ef89707120764ea78ddedcaaee939ca0eb2590320aaaad7acddf",
+    "files": 704,
+    "declared_versions": [
+      {
+        "project": "EmpiresOfElysia.xcodeproj/project.pbxproj",
+        "marketing": [
+          "1.6.7"
+        ],
+        "build": [
+          "28"
+        ]
+      }
+    ],
+    "excluded_files": [
+      {
+        "path": ".DS_Store",
+        "reason": "hidden metadata or temporary file"
+      },
+      {
+        "path": "Mac-validation-initial.log",
+        "reason": "non-source extension"
+      },
+      {
+        "path": "Mac-validation-v1672.log",
+        "reason": "non-source extension"
+      },
+      {
+        "path": "EmpiresOfElysia/Assets.xcassets/queen_angels.imageset/.art.png.MUdh3E",
+        "reason": "hidden metadata or temporary file"
+      },
+      {
+        "path": "EmpiresOfElysia/Assets.xcassets/skin_goths_infantry.imageset/.art.png.XV5KUL",
+        "reason": "hidden metadata or temporary file"
+      }
+    ],
+    "kind": "source snapshot; not a compiled playable binary",
+    "import_date": "2026-10-25",
+    "history_note": "Reconstructed preservation snapshot; import order is not original development history.",
+    "commit": "f7cc4afad13f1bc1ad76d54e7666eab925a0e90b"
+  }
+]
